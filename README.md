@@ -1,0 +1,1 @@
+# debian_kernel-tinker_board-debian-3.0.11
